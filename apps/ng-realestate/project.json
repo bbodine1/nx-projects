@@ -2,7 +2,7 @@
   "name": "ng-realestate",
   "$schema": "../../node_modules/nx/schemas/project-schema.json",
   "projectType": "application",
-  "prefix": "nx-projects",
+  "prefix": "app",
   "sourceRoot": "apps/ng-realestate/src",
   "tags": [],
   "targets": {
