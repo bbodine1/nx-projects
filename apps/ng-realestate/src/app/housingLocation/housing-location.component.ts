@@ -51,7 +51,7 @@ import { HousingLocation } from '../housinglocation';
         color: var(--primary-color);
       }
       section.listing a::after {
-        content: '\x203A';
+        content: '>';
         margin-left: 5px;
       }
     `,
